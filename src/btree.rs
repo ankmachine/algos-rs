@@ -1,3 +1,4 @@
+use std::collections::{HashSet, VecDeque};
 
 #[derive(Debug, PartialEq)]
 struct Tree {
@@ -92,6 +93,21 @@ impl Tree {
                 }
             }
         }
+    }
+    
+    fn dfs(&self, target: i32) -> Node {
+        let mut visited:HashSet<Node> = HashSet::new();
+        let mut queue:VecDeque<Node> = VecDeque::new();
+        match &self.root {
+            None => {
+                return Node::new(target).into(); // we created the From impl for into
+            }
+            Some(node) => {
+                todo!("need to add node to queue and jump inside node");
+                return Node::new(target).into();
+            }
+        }
+        
     }
 }
 
