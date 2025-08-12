@@ -9,4 +9,5 @@ Following are done so far
    2. remove duplicate from array
    3. longest substring
    4. Median of Two Sorted Arrays
+   5. Longest Palindrome substring
 
