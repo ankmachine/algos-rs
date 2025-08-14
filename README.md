@@ -11,3 +11,4 @@ Following are done so far
    4. Median of Two Sorted Arrays
    5. Longest Palindrome substring
    6. Zigzag Conversion
+   7. Reverse Integer
