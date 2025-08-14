@@ -10,4 +10,4 @@ Following are done so far
    3. longest substring
    4. Median of Two Sorted Arrays
    5. Longest Palindrome substring
-
+   6. Zigzag Conversion
