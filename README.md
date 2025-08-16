@@ -12,3 +12,4 @@ Following are done so far
    5. Longest Palindrome substring
    6. Zigzag Conversion
    7. Reverse Integer
+   8. String to Integer

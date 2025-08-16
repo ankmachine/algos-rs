@@ -4,4 +4,5 @@ mod longest_substring;
 mod median_sorted_array;
 mod remove_duplicate_array;
 mod reverse_integer;
+mod string_to_int;
 mod zigzag_conversion;
