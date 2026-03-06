@@ -13,3 +13,5 @@ Following are done so far
    6. Zigzag Conversion
    7. Reverse Integer
    8. String to Integer
+5. Monte carlo simulation in MC
+   1. monte carlo integrator in 1D
